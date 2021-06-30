@@ -5,7 +5,7 @@ In order to install Minty Expresso, you'll need to have NodeJS installed. You ca
 
 Once you've installed NodeJS, you'll need to install express, nodemon, and minty-expresso using the following terminal command:
 
-``` javascript
+``` bash
 npm install minty-expresso
 ```
 Depending on the speed of your computer and internet connection, this will take some time.
