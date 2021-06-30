@@ -18,7 +18,7 @@ const mintyExpresso = require('minty-expresso')
 * Require the minty-expresso package from the npmjs registry and set its value to a constant variable. *
 
 ``` javascript
-mintyExpresso.newAddress('/index.html', __dirname + '/static/index.html')
+mintyExpresso.newAddress('/', __dirname + '/static/index.html')
 ```
 
 * Specify the location of the file (as seen in the browser's address bar) and enter the directory of the actual file as relative to the directory the terminal is in.
