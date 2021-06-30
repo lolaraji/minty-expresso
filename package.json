@@ -1,0 +1,14 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "this is an example.",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "nodemon src/app.js"
+    },
+    "author": "Lola Raji",
+    "license": "ISC",
+    "dependencies": {
+        "minty-expresso": "^1.1.7"
+    }
+}
