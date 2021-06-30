@@ -23,7 +23,7 @@ npm install minty-expresso
 
 ## Functions ##
 
-``` javascriptt
+``` javascript
 const me = require('minty-expresso')
 ```
 * Require the minty-expresso package from the npmjs registry and set a simple acronym to it (it's much easier this way, however it's not unnecessary). *
