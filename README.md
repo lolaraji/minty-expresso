@@ -18,13 +18,13 @@ const me = require('minty-expresso')
 * Require the minty-expresso package from the npmjs registry and set a simple acronym to it (it's much easier this way, however it's not unnecessary). *
 
 ``` javascript
-mintyExpresso.newFile('/index.html', __dirname + '/static/index.html')
+me.newFile('/index.html', __dirname + '/static/index.html')
 ```
 
 * Specify the location of the file (as seen in the browser's address bar) and enter the directory of the actual file as relative to the directory the terminal is in.
 
 ``` javascript
-mintyExpresso.newPort(3000, 'running!')
+me.newPort(3000, 'running!')
 ```
 
 * Finally, start the server on whatever port you'd like, and enter a message to be console.logged once it is up and running!
