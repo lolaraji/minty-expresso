@@ -1,5 +1,5 @@
-# Installation #
-## Dependencies & the Package##
+# Overview #
+## Installation ##
 In order to install Minty Expresso, you'll need to have NodeJS installed. You can get it completely for free here:
   * https://nodejs.org/en/
 
