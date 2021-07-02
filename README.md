@@ -35,7 +35,7 @@ npm start
 
 After running the command via the terminal, the server should start up and you should see whatever you wrote for the startup message in the terminal!
 
-However, if you encounter an error, please feel free to check out the GitHub repo, as I have created an example project, complete with src, exports, and static folders.
+However, if you encounter an error, please feel free to check out this GitHub repo, as I have created an example project, complete with src, exports, and static folders.
 
 ## Links ##
 * GitHub Page: https://github.com/lolaraji/minty-expresso
