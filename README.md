@@ -5,7 +5,7 @@ In order to install Minty Expresso, you'll need to have NodeJS installed. You ca
 
 Once you've installed NodeJS, you'll need to install express, nodemon, and minty-expresso using the following terminal command:
 
-``` bash
+``` javascript
 npm install minty-expresso
 ```
 Depending on the speed of your computer and internet connection, this will take some time.
@@ -21,19 +21,24 @@ const mintyExpresso = require('minty-expresso')
 mintyExpresso.newAddress('/', __dirname + '/static/index.html')
 ```
 
-* Specify the location of the file (as seen in the browser's address bar) and enter the directory of the actual file as relative to the directory the terminal is in.
+* Specify the location of the file (as seen in the browser's address bar) and enter the directory of the actual file, relative to the directory the terminal is in.
 
 ``` javascript
 mintyExpresso.newPort(3000, 'running!')
 ```
 
-* Finally, start the server on whatever port you'd like, and enter a message to be console.logged once it is up and running!
+* Finally, start the server on whatever port you'd like, and enter a message to be logged once it is up and running!
+
+``` bash
+npm start
+```
+
+* After running the command via the terminal, the server should start up and you should see whatever you wrote for the startup message in the terminal!
 
 ## Links ##
-
+* GitHub Page: https://github.com/lolaraji/minty-expresso
 * Original express.js package: https://www.npmjs.com/package/express
 * Nodemon package: https://www.npmjs.com/package/nodemon
-* Lola Raji's  Website: https://www.lolarajiweb.design/
 * minty-expresso NPM page: https://www.npmjs.com/package/minty-expresso
 
 ## Credits ##
