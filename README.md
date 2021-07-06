@@ -31,7 +31,7 @@ Remember to make sure that ypur 'package.json' file's script includes:
 
 ``` bash
     "scripts": {
-        "start": "nodemon src/app.js"
+        "start": "FILE_LOCATION"
     },
 ```
 
