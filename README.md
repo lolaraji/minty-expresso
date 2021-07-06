@@ -27,6 +27,14 @@ Specify the location of the file (as seen in the browser's address bar) and ente
 mintyExpresso.newPort(3000, 'running!')
 ```
 
+Remember to make sure that ypur 'package.json' file's script includes:
+
+``` bash
+    "scripts": {
+        "start": "nodemon src/app.js"
+    },
+```
+
 Finally, start the server on whatever port you'd like, and enter a message to be logged once it is up and running!
 
 ``` bash
