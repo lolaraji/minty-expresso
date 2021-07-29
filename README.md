@@ -30,7 +30,7 @@ mintyExpresso.newPort(3000, 'running!')
 Finally, start the server on whatever port you'd like, and enter a message to be logged once it is up and running!
 
 ``` bash
-npm start
+node FILENAME.js
 ```
 
 After running the command via the terminal, the server should start up and you should see whatever you wrote for the startup message in the terminal!
