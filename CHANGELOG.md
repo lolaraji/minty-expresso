@@ -1,7 +1,7 @@
 # Recent Updates #
 ## v.1.2.5
 * Not many updates in (almost) two years! o-O
-* tinkered with README.
+* Tinkered with README.
 
 ## v.1.2.4 [July 14th, 2021]
 * Tinkered with CHANGELOG,
