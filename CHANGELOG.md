@@ -1,7 +1,10 @@
 # Recent Updates #
-## v.1.2.5 [April 4th, 2023]
+## v.1.2.6 [April 4th, 2023]
 * Not many updates in (almost) two years! o-O
 * Tinkered with README.
+
+## v.1.2.5 [July 28th, 2021]
+* Updated README
 
 ## v.1.2.4 [July 14th, 2021]
 * Tinkered with CHANGELOG,
